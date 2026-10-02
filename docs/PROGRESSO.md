@@ -4,7 +4,7 @@
 
 | Sprint | Issues | Pontos | Andamento |
 |---|---|---|---|
-| Sem sprint | 0/31 | 0/0 | 0% |
+| Sem sprint | 0/62 | 0/0 | 0% |
 
 Lead time médio: – dias · Entregas nos últimos 7 dias: 0 · Em andamento: 0 · Bugs abertos: 0
 
