@@ -1,0 +1,15 @@
+name: Bug
+description: Algo não funciona como esperado
+labels: ["tipo:bug"]
+body:
+  - type: textarea
+    id: passos
+    attributes: { label: Passos para reproduzir, value: "1. \n2. \n3. " }
+    validations: { required: true }
+  - type: textarea
+    id: esperado
+    attributes: { label: Resultado esperado e obtido }
+    validations: { required: true }
+  - type: input
+    id: ambiente
+    attributes: { label: Dispositivo e navegador, placeholder: "iPhone 13, Safari 17" }
