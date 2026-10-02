@@ -5,6 +5,8 @@
 | Sprint | Issues | Pontos | Andamento |
 |---|---|---|---|
 | Sem sprint | 31/62 | 0/0 | 0% |
+| Sprint 2 – Motor de rotas e calculadora | 0/1 | 0/0 | 0% |
+| Sprint 4 – Testes e deploy final | 0/1 | 0/0 | 0% |
 
 Lead time médio: 0.0 dias · Entregas nos últimos 7 dias: 31 · Em andamento: 0 · Bugs abertos: 0
 
