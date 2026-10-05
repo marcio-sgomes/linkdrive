@@ -13,4 +13,4 @@
 
 Lead time médio: 0.0 dias · Entregas nos últimos 7 dias: 31 · Em andamento: 0 · Bugs abertos: 0
 
-_Atualizado em 2026-10-03_
+_Atualizado em 2026-10-05_
